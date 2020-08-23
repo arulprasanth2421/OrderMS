@@ -21,6 +21,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>arulprasanth2421_OrderMS</sonar.projectKey>
+  <sonar.organization>arulprasanth2421</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>79f6238aa32497cb7973248dd64c8d84a7fc2534</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
